@@ -52,8 +52,8 @@
     "lastUpdated": "2026-07-15"
   },
   "vscode-astro": {
-    "archived": true,
-    "lastUpdated": "2025-11-17"
+    "archived": false,
+    "lastUpdated": "2026-07-16"
   },
   "vscode-tailwindcss": {
     "archived": false,
@@ -175,10 +175,6 @@
     "archived": false,
     "lastUpdated": "2024-11-19"
   },
-  "vscode-vue-typescript": {
-    "archived": true,
-    "lastUpdated": "2017-06-15"
-  },
   "vscode-vue2": {
     "archived": false,
     "lastUpdated": "2024-11-26"
@@ -283,10 +279,6 @@
     "archived": false,
     "lastUpdated": "2022-04-30"
   },
-  "vscode-bootstrap-v4": {
-    "archived": true,
-    "lastUpdated": "2019-11-15"
-  },
   "vscode-bootstrap5-snippets": {
     "archived": false,
     "lastUpdated": "2024-03-14"
@@ -335,10 +327,6 @@
     "archived": false,
     "lastUpdated": "2021-09-13"
   },
-  "vscode-python": {
-    "archived": true,
-    "lastUpdated": "2024-01-03"
-  },
   "vscode-python-snippet-pack": {
     "archived": false,
     "lastUpdated": "2022-09-19"
@@ -362,10 +350,6 @@
   "vscode-tkinter": {
     "archived": false,
     "lastUpdated": "2021-01-30"
-  },
-  "vscode-laravel-model": {
-    "archived": true,
-    "lastUpdated": "2020-12-16"
   },
   "vscode-laravel5-snippets": {
     "archived": false,
@@ -402,10 +386,6 @@
   "vscode-java-imports-snippets": {
     "archived": false,
     "lastUpdated": "2017-09-05"
-  },
-  "vscode-java-snippets": {
-    "archived": true,
-    "lastUpdated": "2016-02-28"
   },
   "vscode-awesome-flutter": {
     "archived": false,
