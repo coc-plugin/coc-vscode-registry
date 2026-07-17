@@ -1,0 +1,538 @@
+{
+  "vscode-clangd": {
+    "archived": false,
+    "lastUpdated": "2026-07-01"
+  },
+  "vscode-rust-analyzer": {
+    "archived": false,
+    "lastUpdated": "2026-07-17"
+  },
+  "vscode-go": {
+    "archived": false,
+    "lastUpdated": "2026-07-16"
+  },
+  "vscode-gleam": {
+    "archived": false,
+    "lastUpdated": "2026-06-23"
+  },
+  "vscode-pyright": {
+    "archived": false,
+    "lastUpdated": "2026-07-15"
+  },
+  "vscode-ruff": {
+    "archived": false,
+    "lastUpdated": "2026-07-16"
+  },
+  "vscode-ng-language-service": {
+    "archived": false,
+    "lastUpdated": "2026-07-16"
+  },
+  "vscode-volar": {
+    "archived": false,
+    "lastUpdated": "2026-07-12"
+  },
+  "vscode-eslint": {
+    "archived": false,
+    "lastUpdated": "2026-07-16"
+  },
+  "vscode-biome": {
+    "archived": false,
+    "lastUpdated": "2026-07-16"
+  },
+  "vscode-deno": {
+    "archived": false,
+    "lastUpdated": "2026-07-02"
+  },
+  "vscode-ember": {
+    "archived": false,
+    "lastUpdated": "2026-07-10"
+  },
+  "vscode-svelte": {
+    "archived": false,
+    "lastUpdated": "2026-07-15"
+  },
+  "vscode-astro": {
+    "archived": true,
+    "lastUpdated": "2025-11-17"
+  },
+  "vscode-tailwindcss": {
+    "archived": false,
+    "lastUpdated": "2026-07-16"
+  },
+  "vscode-intelephense": {
+    "archived": false,
+    "lastUpdated": "2026-06-21"
+  },
+  "vscode-language-viml": {
+    "archived": false,
+    "lastUpdated": "2026-07-08"
+  },
+  "vscode-lua": {
+    "archived": false,
+    "lastUpdated": "2026-05-21"
+  },
+  "vscode-yaml": {
+    "archived": false,
+    "lastUpdated": "2026-07-16"
+  },
+  "vscode-xml": {
+    "archived": false,
+    "lastUpdated": "2026-06-11"
+  },
+  "vscode-prisma": {
+    "archived": false,
+    "lastUpdated": "2026-07-17"
+  },
+  "vscode-ansible": {
+    "archived": false,
+    "lastUpdated": "2026-07-17"
+  },
+  "vscode-bash-language-server": {
+    "archived": false,
+    "lastUpdated": "2026-07-14"
+  },
+  "vscode-docker": {
+    "archived": false,
+    "lastUpdated": "2026-06-22"
+  },
+  "vscode-stylelint": {
+    "archived": false,
+    "lastUpdated": "2026-07-10"
+  },
+  "vscode-taplo": {
+    "archived": false,
+    "lastUpdated": "2026-03-11"
+  },
+  "vscode-css-peek": {
+    "archived": false,
+    "lastUpdated": "2026-05-17"
+  },
+  "vscode-html-ls": {
+    "archived": false,
+    "lastUpdated": "2026-07-17"
+  },
+  "vscode-css-ls": {
+    "archived": false,
+    "lastUpdated": "2026-07-17"
+  },
+  "vscode-marksman": {
+    "archived": false,
+    "lastUpdated": "2023-12-09"
+  },
+  "vscode-tinymist": {
+    "archived": false,
+    "lastUpdated": "2026-07-15"
+  },
+  "vscode-texlab": {
+    "archived": false,
+    "lastUpdated": "2026-07-13"
+  },
+  "vscode-bitbake": {
+    "archived": false,
+    "lastUpdated": "2026-07-16"
+  },
+  "vscode-jq": {
+    "archived": false,
+    "lastUpdated": "2026-03-26"
+  },
+  "vscode-alex": {
+    "archived": false,
+    "lastUpdated": "2021-09-21"
+  },
+  "vscode-html-css-support": {
+    "archived": false,
+    "lastUpdated": "2026-05-28"
+  },
+  "vscode-css-modules": {
+    "archived": false,
+    "lastUpdated": "2026-04-02"
+  },
+  "vscode-prettier-vscode": {
+    "archived": false,
+    "lastUpdated": "2026-06-03"
+  },
+  "vscode-gitignore": {
+    "archived": false,
+    "lastUpdated": "2025-03-01"
+  },
+  "vscode-live-server": {
+    "archived": false,
+    "lastUpdated": "2026-06-10"
+  },
+  "vscode-code-runner": {
+    "archived": false,
+    "lastUpdated": "2024-08-11"
+  },
+  "vscode-write-good": {
+    "archived": false,
+    "lastUpdated": "2026-03-24"
+  },
+  "vscode-clojure-lsp": {
+    "archived": false,
+    "lastUpdated": "2020-10-08"
+  },
+  "vscode-vue-snippets": {
+    "archived": false,
+    "lastUpdated": "2024-11-19"
+  },
+  "vscode-vue-typescript": {
+    "archived": true,
+    "lastUpdated": "2017-06-15"
+  },
+  "vscode-vue2": {
+    "archived": false,
+    "lastUpdated": "2024-11-26"
+  },
+  "vscode-vue3-snippets": {
+    "archived": false,
+    "lastUpdated": "2024-06-10"
+  },
+  "vscode-vue3-snippets-for": {
+    "archived": false,
+    "lastUpdated": "2022-08-16"
+  },
+  "vscode-es7-javascript-react": {
+    "archived": false,
+    "lastUpdated": "2018-11-30"
+  },
+  "vscode-es7-react-snippets": {
+    "archived": false,
+    "lastUpdated": "2026-05-01"
+  },
+  "vscode-full-react": {
+    "archived": false,
+    "lastUpdated": "2020-07-15"
+  },
+  "vscode-js-jsx-snippets": {
+    "archived": false,
+    "lastUpdated": "2026-06-13"
+  },
+  "vscode-react-native-redux-snippets": {
+    "archived": false,
+    "lastUpdated": "2020-10-09"
+  },
+  "vscode-react-redux-react-router": {
+    "archived": false,
+    "lastUpdated": "2023-05-13"
+  },
+  "vscode-react-snippets": {
+    "archived": false,
+    "lastUpdated": "2020-02-18"
+  },
+  "vscode-simple-react-snippets": {
+    "archived": false,
+    "lastUpdated": "2024-07-26"
+  },
+  "vscode-styled-components-snippets": {
+    "archived": false,
+    "lastUpdated": "2021-03-21"
+  },
+  "vscode-typescript-react-snippets": {
+    "archived": false,
+    "lastUpdated": "2019-07-17"
+  },
+  "vscode-next.js": {
+    "archived": false,
+    "lastUpdated": "2025-06-30"
+  },
+  "vscode-nextjs-snippets": {
+    "archived": false,
+    "lastUpdated": "2020-12-01"
+  },
+  "vscode-solidjs-snippets": {
+    "archived": false,
+    "lastUpdated": "2025-01-23"
+  },
+  "vscode-angular": {
+    "archived": false,
+    "lastUpdated": "2026-07-10"
+  },
+  "vscode-angular-2": {
+    "archived": false,
+    "lastUpdated": "2020-11-13"
+  },
+  "vscode-angular-bootstrap-code": {
+    "archived": false,
+    "lastUpdated": "2017-12-09"
+  },
+  "vscode-angular-ngrx-snippets": {
+    "archived": false,
+    "lastUpdated": "2024-07-11"
+  },
+  "vscode-angular1": {
+    "archived": false,
+    "lastUpdated": "2019-05-05"
+  },
+  "vscode-angular2-test": {
+    "archived": false,
+    "lastUpdated": "2017-01-25"
+  },
+  "vscode-ng2-typescript": {
+    "archived": false,
+    "lastUpdated": "2017-02-06"
+  },
+  "vscode-svelte-2": {
+    "archived": false,
+    "lastUpdated": "2023-06-26"
+  },
+  "vscode-svelte-snippets": {
+    "archived": false,
+    "lastUpdated": "2021-11-08"
+  },
+  "vscode-bootstrap-3": {
+    "archived": false,
+    "lastUpdated": "2022-04-30"
+  },
+  "vscode-bootstrap-v4": {
+    "archived": true,
+    "lastUpdated": "2019-11-15"
+  },
+  "vscode-bootstrap5-snippets": {
+    "archived": false,
+    "lastUpdated": "2024-03-14"
+  },
+  "vscode-javascript": {
+    "archived": false,
+    "lastUpdated": "2024-03-26"
+  },
+  "vscode-javascript-snippets": {
+    "archived": false,
+    "lastUpdated": "2025-12-20"
+  },
+  "vscode-node": {
+    "archived": false,
+    "lastUpdated": "2025-03-12"
+  },
+  "vscode-node-js": {
+    "archived": false,
+    "lastUpdated": "2021-03-26"
+  },
+  "vscode-standardjs": {
+    "archived": false,
+    "lastUpdated": "2022-01-09"
+  },
+  "vscode-djaneiro": {
+    "archived": false,
+    "lastUpdated": "2023-03-03"
+  },
+  "vscode-django": {
+    "archived": false,
+    "lastUpdated": "2018-11-16"
+  },
+  "vscode-fastapi-snippets": {
+    "archived": false,
+    "lastUpdated": "2022-09-07"
+  },
+  "vscode-flask": {
+    "archived": false,
+    "lastUpdated": "2023-06-16"
+  },
+  "vscode-opencv-snippets": {
+    "archived": false,
+    "lastUpdated": "2024-03-02"
+  },
+  "vscode-pygame-snippets": {
+    "archived": false,
+    "lastUpdated": "2021-09-13"
+  },
+  "vscode-python": {
+    "archived": true,
+    "lastUpdated": "2024-01-03"
+  },
+  "vscode-python-snippet-pack": {
+    "archived": false,
+    "lastUpdated": "2022-09-19"
+  },
+  "vscode-python-snippet-pack-2.0": {
+    "archived": false,
+    "lastUpdated": "2024-01-18"
+  },
+  "vscode-pytorch": {
+    "archived": false,
+    "lastUpdated": "2021-10-01"
+  },
+  "vscode-snp-pandas-basic": {
+    "archived": false,
+    "lastUpdated": "2025-03-16"
+  },
+  "vscode-tensorflow2snippets": {
+    "archived": false,
+    "lastUpdated": "2020-03-03"
+  },
+  "vscode-tkinter": {
+    "archived": false,
+    "lastUpdated": "2021-01-30"
+  },
+  "vscode-laravel-model": {
+    "archived": true,
+    "lastUpdated": "2020-12-16"
+  },
+  "vscode-laravel5-snippets": {
+    "archived": false,
+    "lastUpdated": "2025-03-29"
+  },
+  "vscode-php-awesome": {
+    "archived": false,
+    "lastUpdated": "2023-12-17"
+  },
+  "vscode-phpstorm-snippets-for": {
+    "archived": false,
+    "lastUpdated": "2021-04-12"
+  },
+  "vscode-wordpress-toolbox": {
+    "archived": false,
+    "lastUpdated": "2025-06-02"
+  },
+  "vscode-rust-flash": {
+    "archived": false,
+    "lastUpdated": "2025-07-25"
+  },
+  "vscode-arduino": {
+    "archived": false,
+    "lastUpdated": "2019-03-27"
+  },
+  "vscode-cpp": {
+    "archived": false,
+    "lastUpdated": "2023-12-19"
+  },
+  "vscode-csharp": {
+    "archived": false,
+    "lastUpdated": "2022-08-02"
+  },
+  "vscode-java-imports-snippets": {
+    "archived": false,
+    "lastUpdated": "2017-09-05"
+  },
+  "vscode-java-snippets": {
+    "archived": true,
+    "lastUpdated": "2016-02-28"
+  },
+  "vscode-awesome-flutter": {
+    "archived": false,
+    "lastUpdated": "2022-10-02"
+  },
+  "vscode-flutter": {
+    "archived": false,
+    "lastUpdated": "2023-01-08"
+  },
+  "vscode-flutter-2": {
+    "archived": false,
+    "lastUpdated": "2024-12-02"
+  },
+  "vscode-flutter-riverpod": {
+    "archived": false,
+    "lastUpdated": "2025-09-28"
+  },
+  "vscode-express": {
+    "archived": false,
+    "lastUpdated": "2020-03-16"
+  },
+  "vscode-nestjs-snippets": {
+    "archived": false,
+    "lastUpdated": "2025-08-13"
+  },
+  "vscode-nestsjs": {
+    "archived": false,
+    "lastUpdated": "2020-08-11"
+  },
+  "vscode-springboot": {
+    "archived": false,
+    "lastUpdated": "2020-12-11"
+  },
+  "vscode-chai-snippets": {
+    "archived": false,
+    "lastUpdated": "2017-02-21"
+  },
+  "vscode-cypress-snippets": {
+    "archived": false,
+    "lastUpdated": "2020-11-01"
+  },
+  "vscode-jest": {
+    "archived": false,
+    "lastUpdated": "2026-02-28"
+  },
+  "vscode-playwright-snippets": {
+    "archived": false,
+    "lastUpdated": "2024-11-11"
+  },
+  "vscode-mysql-snippets": {
+    "archived": false,
+    "lastUpdated": "2025-02-05"
+  },
+  "vscode-postgresql-snippets": {
+    "archived": false,
+    "lastUpdated": "2024-09-16"
+  },
+  "vscode-uni-app-snippets": {
+    "archived": false,
+    "lastUpdated": "2026-06-25"
+  },
+  "vscode-uni-cloud-snippets": {
+    "archived": false,
+    "lastUpdated": "2026-06-25"
+  },
+  "vscode-uni-ui-snippets": {
+    "archived": false,
+    "lastUpdated": "2026-06-26"
+  },
+  "vscode-ue4-snippets-vs": {
+    "archived": false,
+    "lastUpdated": "2020-08-26"
+  },
+  "vscode-unity": {
+    "archived": false,
+    "lastUpdated": "2017-07-02"
+  },
+  "vscode-unity-2": {
+    "archived": false,
+    "lastUpdated": "2018-03-22"
+  },
+  "vscode-unity-code": {
+    "archived": false,
+    "lastUpdated": "2022-05-03"
+  },
+  "vscode-apacheconf": {
+    "archived": false,
+    "lastUpdated": "2024-07-21"
+  },
+  "vscode-classic-asp": {
+    "archived": false,
+    "lastUpdated": "2025-01-15"
+  },
+  "vscode-ejs-snippets": {
+    "archived": false,
+    "lastUpdated": "2020-06-04"
+  },
+  "vscode-emoji-snippets": {
+    "archived": false,
+    "lastUpdated": "2022-07-02"
+  },
+  "vscode-eslint-disable": {
+    "archived": false,
+    "lastUpdated": "2023-08-16"
+  },
+  "vscode-font-awesome-codes-html": {
+    "archived": false,
+    "lastUpdated": "2017-04-20"
+  },
+  "vscode-ionic": {
+    "archived": false,
+    "lastUpdated": "2020-07-30"
+  },
+  "vscode-jquery-snippets": {
+    "archived": false,
+    "lastUpdated": "2023-05-02"
+  },
+  "vscode-liquid": {
+    "archived": false,
+    "lastUpdated": "2022-11-16"
+  },
+  "vscode-rxjs-snippets": {
+    "archived": false,
+    "lastUpdated": "2017-01-28"
+  },
+  "vscode-vsc_html5_boilerplate": {
+    "archived": false,
+    "lastUpdated": "2022-05-13"
+  }
+}
