@@ -3,7 +3,7 @@
     "type": "tsserver-forward",
     "options": {
       "extensions": [
-        "coc-tsserver-dev"
+        "coc-tsserver"
       ],
       "services": [
         "tsserver"
