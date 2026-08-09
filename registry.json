@@ -421,7 +421,6 @@
       "TypeScript"
     ],
     "minPluginVersion": "1.2.0",
-    "notes": "Vue IntelliSense requires coc-tsserver-dev (not coc-tsserver) due to an unmerged PR for globalPlugins support. See: https://github.com/neoclide/coc-tsserver/pull/493",
     "convert": [
       {
         "type": "bridge",
