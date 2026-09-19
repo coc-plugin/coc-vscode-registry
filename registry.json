@@ -2613,38 +2613,6 @@
     ]
   },
   {
-    "name": "vscode-vue2",
-    "displayName": "Vue 2 Snippets",
-    "description": "Vue 2 Snippets",
-    "type": "snippets",
-    "source": {
-      "type": "github",
-      "repo": "xianghongai/vscode-vue2-snippets"
-    },
-    "url": "https://github.com/xianghongai/vscode-vue2-snippets",
-    "languages": [
-      "css",
-      "html",
-      "javascript",
-      "javascriptreact",
-      "less",
-      "scss",
-      "typescript",
-      "vue",
-      "vue-html"
-    ],
-    "categories": [
-      "Snippets"
-    ],
-    "minPluginVersion": "1.2.6",
-    "convert": [
-      {
-        "type": "snippets",
-        "build": "node merge.js"
-      }
-    ]
-  },
-  {
     "name": "vscode-vue3-snippets",
     "displayName": "Vue 3 Snippets",
     "description": "Snippets for Vue.js 3",
